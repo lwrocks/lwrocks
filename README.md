@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋🏽 I'm Laurel.</h1>
 
-###
-
 <p align="left">I'm a Creative Developer based in Amsterdam.</p>
 
 ###

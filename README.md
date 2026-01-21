@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="left">Hi 👋🏽 I'm Laurel.</h1>
 
-<!--
-**lwrocks/lwrocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I'm a Creative Developer based in Amsterdam.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">I come from a non-traditional background. I studied Advertising & Public Relations at Purdue University and worked in various marketing roles for several years. One day, I decided that I wanted to be building things and not just selling or marketing them on social media. In 2020, I completed the full-stack web development bootcamp at Ironhack in Berlin, Germany.</p>
+
+###
+
+<h2 align="left">What I've Done</h2>
+
+###
+
+<p align="left">Since completing Ironhack, I’ve held full-time roles as a Frontend Developer at Data Sports Group, a data analytics company in the sports industry, as well as at Randstad Groep Nederland, a global HR consulting firm. I’ve also worked on freelance web design and frontend development projects for small businesses and startups in the web3 and lifestyle sectors.</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webflow/4353FF" height="40" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" height="40" alt="storybook logo"  />
+</div>
+
+###
+
+<h2 align="left">What I'm Working On</h2>
+
+###
+
+<p align="left">💻 Freelance developer and web designer, open to new opportunities in the Netherlands and remotely.<br><br>✈️ Building Reroute, a travel app that brings awareness to overtourism</p>
+
+###
+
+<h2 align="left">Contact</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/laureldwright" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/lwrocks" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://bsky.app/profile/lwrocks.bsky.social" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=0285FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="bluesky logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">Note (21 January 2026)</h2>
+
+###
+
+<p align="left">I am currently in the process of migrating my active projects to Codeberg. Any updates to Reroute or any other projects can be found there.</p>
+
+###

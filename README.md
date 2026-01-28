@@ -68,7 +68,7 @@
 
 <ul>
   <li><p>💻 Freelance developer and web designer, open to new opportunities in the Netherlands and remotely.</li>
-  <li><p>✈️ Building <a href="https://github.com/lwrocks/reroute-app" target="_blank">Reroute</a>, a travel app that brings awareness to overtourism</p></li>
+  <li><p>✈️ Building <a href="https://codeberg.org/lwrocks/reroute" target="_blank">Reroute</a>, a travel app that brings awareness to overtourism</p></li>
 </ul>
 
 <div id="toc">
